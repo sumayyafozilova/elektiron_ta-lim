@@ -49,7 +49,7 @@ div p {
 display: flex;
 align-items: center;
 justify-content: center;
-font-size: 35px;
+font-size: 40px;
 font-weight: 600;
 margin-top: 80px;
 }
@@ -60,7 +60,7 @@ margin-top: 80px;
     font-weight: 800;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 450px) {
     div h1 {
         font-size: 2.5rem;
     }
@@ -75,8 +75,8 @@ margin-top: 80px;
     }
 
     .text{
-        font-size: 25px;
-        font-weight: 500;
-        margin-top: 60px;
+        font-size: 20px;
+        font-weight: 400;
+        margin-top: 50px;
     }
 }
